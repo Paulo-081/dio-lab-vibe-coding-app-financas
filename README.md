@@ -25,11 +25,6 @@ Antes de pedir para a IA "criar um app", é importante definir com clareza o que
 
 Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue. Use o modelo abaixo como ponto de partida e adapte conforme o seu estilo:
 
-Resultado do APP https://chat-cash-buddy-94.lovable.app
-
-<img width="941" height="568" alt="image" src="https://github.com/user-attachments/assets/27bae462-75dd-4553-bb7a-d8829cf82700" />
-
-
 ```txt
 # Contexto
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
@@ -79,16 +74,31 @@ Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork**
 No README do seu repositório, inclua:
 
 - Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+- Prints ou pequenos vídeos das interações com a IA;
+Resultado do APP https://chat-cash-buddy-94.lovable.app
+  
+- Um resumo do que o seu **App de Finanças Pessoais** faz;
+  <img width="941" height="568" alt="image" src="https://github.com/user-attachments/assets/27bae462-75dd-4553-bb7a-d8829cf82700" />
+  
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
+  - O que funcionou bem?
+    Após inserir o Product Requirements Document (PRD), foi gerado uma dashboard com o objetivo de visualização finanças.
+ 
+  - O que não funcionou como o esperado?
+    Existe um pouco de limitaçãos no quesito clareza das informações em relação a criação.
+    
   - O que aprendeu sobre conversar com IAs?
+    É necessario criar um cenário para que as informações sejam interpretadas claramente pela IA, assim podendo atingir os objetivos desejados.
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
 ## 💬 Conclusão
+## Resumo Final – Criação de PRD de Finanças Pessoais
 
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+ É fundamental estabelecer metas claras para o MVP e critérios de sucesso mensuráveis, além de planejar testes com usuários piloto.  
+ A criação de cenários bem definidos facilita a interpretação da IA e garante que os entregáveis (como dashboards e relatórios) estejam alinhados ao objetivo.  
+ 
+- **Reflexão e Aprendizado**: O processo mostrou pontos fortes (como geração de dashboards úteis) e áreas de melhoria (clareza das informações). Aprendemos que a comunicação estruturada com IA é essencial para atingir os resultados desejados.  
+
+  Boas Práticas Futuras**: Documentar aprendizados, revisar continuamente o PRD e manter linguagem simples e acessível para equipe e stakeholders.
