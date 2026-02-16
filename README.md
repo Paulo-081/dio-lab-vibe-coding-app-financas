@@ -101,4 +101,4 @@ Resultado do APP https://chat-cash-buddy-94.lovable.app
  
 - **Reflexão e Aprendizado**: O processo mostrou pontos fortes (como geração de dashboards úteis) e áreas de melhoria (clareza das informações). Aprendemos que a comunicação estruturada com IA é essencial para atingir os resultados desejados.  
 
-  Boas Práticas Futuras**: Documentar aprendizados, revisar continuamente o PRD e manter linguagem simples e acessível para equipe e stakeholders.
+- **Boas Práticas Futuras**: Documentar aprendizados, revisar continuamente o PRD e manter linguagem simples e acessível.
